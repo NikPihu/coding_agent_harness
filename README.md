@@ -4,9 +4,6 @@ A coding agent that lives in your terminal, in the spirit of OpenCode. It reads
 and edits your files, runs commands, follows skills, and works with free cloud
 models (OpenRouter) or models running on your own machine (Ollama, LM Studio).
 
-Built step by step by following [avbiswas/neural-code](https://github.com/avbiswas/neural-code),
-then extended with a full-screen interface, model switching and attachments.
-
 ## Install
 
 You need [uv](https://docs.astral.sh/uv/getting-started/installation/) (it brings the right Python with it).

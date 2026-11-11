@@ -1,7 +1,7 @@
 [project]
 name = "coding-agent-harness"
 version = "0.1.0"
-description = "Argus - a minimal coding agent, built by following avbiswas/neural-code"
+description = "Argus - a coding agent for your terminal"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
